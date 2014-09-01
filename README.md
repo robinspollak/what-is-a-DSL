@@ -3,6 +3,9 @@
 [markdown]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 # What _is_ a DSL?
+###### _Submission deadline: Monday, Sept. 8 at 11:59pm_
+###### _Critique deadline: Wednesday, Sept. 11 at 11:59pm_
+
 In this assignment, you'll read an introductory chapter about DSLs, which will 
 give us some shared terminology for talking about DSLs and their 
 implementations. Then you'll find a DSL "in the wild" and describe its design 
