@@ -101,8 +101,9 @@ might add to your partner's work?
 - [ ] Read Fowler's [introduction to DSLs][Fowler].
 - [ ] Find a DSL.
 - [ ] Describe your DSL's implementation and semantics in `my-dsl.md`.
-- [ ] Write a ContextFree program.
-- [ ] Make and save a pretty picture.
+- [ ] Write a ContextFree program in `firstname_lastname.cfdg`.
+- [ ] Make and save a pretty picture in `
+firstname_lastname_variant.png`.
 - [ ] Answer the questions in `context-free.md`.
 - [ ] Submit your work.
 - [ ] Comment on your partner's work.
