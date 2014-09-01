@@ -1,5 +1,5 @@
-[Assignment HOWTO]: #
-[Fowler]: #
+[Assignment HOWTO]: https://github.com/hmc-cs111-fall2014/hmc-cs111-fall2014.github.io/wiki/Assignment-HOWTO
+[Fowler]: https://sakai.claremont.edu/access/content/group/CX_mtg_80056/Fowler_Chapter2.pdf
 [markdown]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 # What _is_ a DSL?
@@ -96,14 +96,14 @@ might add to your partner's work?
 
 ## Tasks
 
-- [ ] Identify a partner for the critique part of the assignment.
-- [ ] Read the [Assignment HOWTO].
-- [ ] Read Fowler's [introduction to DSLs][Fowler].
-- [ ] Find a DSL.
-- [ ] Describe your DSL's implementation and semantics in `my-dsl.md`.
-- [ ] Write a ContextFree program in `firstname_lastname.cfdg`.
-- [ ] Make and save a pretty picture in `
-firstname_lastname_variant.png`.
-- [ ] Answer the questions in `context-free.md`.
-- [ ] Submit your work.
-- [ ] Comment on your partner's work.
+- [ ] Identify a partner for the critique part of the assignment
+- [ ] Read the [Assignment HOWTO]
+- [ ] Read Fowler's [introduction to DSLs][Fowler]
+- [ ] Find a DSL
+- [ ] Describe your DSL's implementation and semantics in `my-dsl.md`
+- [ ] Write a ContextFree program in `firstname_lastname.cfdg`
+- [ ] Make and save a pretty picture in 
+firstname_lastname_variant.png`
+- [ ] Answer the questions in `context-free.md`
+- [ ] Submit your work
+- [ ] Comment on your partner's work
