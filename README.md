@@ -4,7 +4,7 @@
 
 # What _is_ a DSL?
 ###### _Submission deadline: Monday, Sept. 8 at 11:59pm_
-###### _Critique deadline: Wednesday, Sept. 10 at 11:59pm_
+###### _Critique deadline: Wednesday, Sept. 10 at noon_
 
 In this assignment, you'll read an introductory chapter about DSLs, which will 
 give us some shared terminology for talking about DSLs and their 
