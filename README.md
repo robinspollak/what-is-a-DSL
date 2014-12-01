@@ -49,7 +49,7 @@ language that you think *might* be a DSL, but you're not sure, then go with
 it---just assume that it *is* a DSL.
 
 ## Describe your DSL
-Open the file `my-dsl.txt`, read the questions there, and edit the file to
+Open the file `my-dsl.md`, read the questions there, and edit the file to
 include your answers to those questions. Back up your answers with any evidence 
 that you can find about your DSL. Your answers must be formatted in [markdown].
 
