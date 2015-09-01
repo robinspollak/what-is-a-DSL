@@ -1,10 +1,10 @@
-[Assignment HOWTO]: https://github.com/hmc-cs111-fall2014/hmc-cs111-fall2014.github.io/wiki/Assignment-HOWTO
+[Assignment HOWTO]: https://github.com/hmc-cs111-fall2015/hmc-cs111-fall2015.github.io/wiki/Assignment-HOWTO
 [Fowler]: https://sakai.claremont.edu/access/content/group/CX_mtg_80056/Fowler_Chapter2.pdf
 [markdown]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 # What _is_ a DSL?
-###### _Submission deadline: Monday, Sept. 8 at 11:59pm_
-###### _Critique deadline: Wednesday, Sept. 10 at noon_
+###### _Submission deadline: Monday, Sept. 9 at 11:59pm_
+###### _Critique deadline: Wednesday, Sept. 11 at noon_
 
 In this assignment, you'll read an introductory chapter about DSLs, which will 
 give us some shared terminology for talking about DSLs and their 
