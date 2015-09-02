@@ -10,7 +10,7 @@ In this assignment, you'll read an introductory chapter about DSLs, which will
 give us some shared terminology for talking about DSLs and their 
 implementations. Then you'll find a DSL "in the wild" and describe its design 
 and implementation using terminology from the reading. Finally, you'll write a
-program in a cool DSL: ContextFree.
+program in an interesting DSL: ContextFree.
 
 After this assignment, you should be able to:
 
