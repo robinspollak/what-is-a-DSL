@@ -78,6 +78,26 @@ uniquely identifies this version of your program).
 
 4. Answer the questions in `context-free.md`.
 
+## Identify your peer-review partner(s)
+Your name is on the left side of this table; the person whose work you should review is on the right side of this table:
+
+| Your name   | Your critique partner's name |
+| ----------- | ---------------------------  |
+| Adam        | Daniel H.                    |
+| Alex O.     | Daniel O.                    |
+| Alex P.     | Justis                       |
+| Anna        | Matt                         |
+| Ben         | Men Cheol                    |
+| Dan W.      | Robin                        |
+| Daniel H.   | Zoab                         |
+| Daniel O.   | Adam                         |
+| Justis      | Alex O.                      |
+| Matt        | Alex P.                      |
+| Men Cheol   | Anna                         |
+| Robin       | Ben                          |
+| Zoab        | Dan W.                       |
+
+
 ## Peer-review your partner's work
 Once your partner has submitted, you can comment on their work. You should
 provide feedback on all aspects of your partner's work, including the
@@ -96,7 +116,6 @@ might add to your partner's work?
 
 ## Tasks
 
-- [ ] Identify a partner for the critique part of the assignment
 - [ ] Read the [Assignment HOWTO]
 - [ ] Read Fowler's [introduction to DSLs][Fowler]
 - [ ] Find a DSL
@@ -105,4 +124,4 @@ might add to your partner's work?
 - [ ] Make and save a pretty picture in `firstname_lastname_variant.png`
 - [ ] Answer the questions in `context-free.md`
 - [ ] Submit your work
-- [ ] Comment on your partner's work
+- [ ] Comment on your critique partner's work
