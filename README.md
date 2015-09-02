@@ -1,5 +1,5 @@
 [Assignment HOWTO]: https://github.com/hmc-cs111-fall2015/hmc-cs111-fall2015.github.io/wiki/Assignment-HOWTO
-[Fowler]: https://sakai.claremont.edu/access/content/group/CX_mtg_80056/Fowler_Chapter2.pdf
+[Fowler]: https://sakai.claremont.edu/access/content/group/CX_mtg_85077/Fowler_Chapter2.pdf
 [markdown]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 # What _is_ a DSL?
