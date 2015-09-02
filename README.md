@@ -25,7 +25,7 @@ free to talk about the assignment with anyone). For the critique part of the
 assignment, you'll pick a partner and review each other's work.
 
 ## Read up on the assignment workflow
-This [article][Assignment HOWTO] describes how we'll do our assignments on
+[This article][Assignment HOWTO] describes how we'll do our assignments on
 GitHub. Be sure to read it before you start working on your assignment.
 
 ## Read Fowler's introduction to DSLs
