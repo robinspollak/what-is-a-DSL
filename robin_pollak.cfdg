@@ -1,0 +1,75 @@
+startshape fun
+
+background { hue 180 saturation 0.8 brightness -0.1}
+
+rule fun{
+
+	recursivefun{}
+	recursivefun2{}
+	recursivefun3{}
+	recursivefun4{}
+	recursivefun5{}
+	recursivefun6{}
+	recursivefun7{}
+	recursivefun8{}
+
+}
+
+rule recursivefun{
+
+	CIRCLE{b 0}
+	CIRCLE{s 0.99 hue 350 sat 0.5  b 1}
+	recursivefun{x 0.05 s 0.9965 r 1}
+
+}
+
+rule recursivefun2{
+
+	SQUARE{b 0}
+	SQUARE{s 0.98 hue 300 sat 0.5  b 1}
+	recursivefun2{x 0.05 s 0.9959 r 1}
+
+}
+
+rule recursivefun3{
+
+	CIRCLE{b 0}
+	CIRCLE{s 0.99 hue 350 sat 0.5  b 1}
+	recursivefun3{x -0.05 s 0.9965 r 1}
+
+}
+rule recursivefun4{
+
+	SQUARE{b 0}
+	SQUARE{s 0.98 hue 300 sat 0.5  b 1}
+	recursivefun4{x -0.05 s 0.9959 r 1}
+
+}
+rule recursivefun5{
+
+	CIRCLE{b 0}
+	CIRCLE{s 0.99 hue 350 sat 0.5  b 1}
+	recursivefun5{y 0.05 s 0.9965 r 1}
+
+}
+rule recursivefun6{
+
+	SQUARE{b 0}
+	SQUARE{s 0.98 hue 300 sat 0.5  b 1}
+	recursivefun6{y 0.05 s 0.9959 r 1}
+
+}
+rule recursivefun7{
+
+	CIRCLE{b 0}
+	CIRCLE{s 0.99 hue 350 sat 0.5  b 1}
+	recursivefun7{y -0.05 s 0.9965 r 1}
+
+}
+rule recursivefun8{
+
+	SQUARE{b 0}
+	SQUARE{s 0.98 hue 300 sat 0.5  b 1}
+	recursivefun8{y -0.05 s 0.9959 r 1}
+
+}
